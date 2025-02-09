@@ -1,4 +1,4 @@
-go to dir where u have files, right click and click open bash
+--Go to directory where you have files for check in, right click on the folder and click open bash here:
 
 git init;
 git status;
