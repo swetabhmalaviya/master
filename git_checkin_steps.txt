@@ -1,0 +1,9 @@
+go to dir where u have files, right click and click open bash
+
+git init;
+git status;
+git add .;
+git commit -m 'first commit';
+git remote add origin https://github.com/swetabhmalaviya/master.git;
+git pull origin master --rebase
+git push origin master;
